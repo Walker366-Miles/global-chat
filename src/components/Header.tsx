@@ -36,7 +36,7 @@ const Header = () => {
             <span className="font-display text-lg font-bold text-primary-foreground">G</span>
           </div>
           <span className="font-display text-lg font-bold text-text-bright md:text-xl">
-            GLOBALCHAT<span className="text-gradient"> CONNECT</span>
+            GLOBAL<span className="text-gradient"> CHAT</span>
           </span>
         </a>
 
