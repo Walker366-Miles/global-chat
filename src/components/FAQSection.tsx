@@ -9,7 +9,7 @@ import {
 const faqs = [
   {
     q: "Can I join from any country?",
-    a: "Yes! GlobalChat Connect is open to people from all over the world. As long as you have an internet connection, you can sign up and start earning.",
+    a: "Yes! Global Chat is open to people from all over the world. As long as you have an internet connection, you can sign up and start earning.",
   },
   {
     q: "Do I need any experience?",
